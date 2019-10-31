@@ -12,6 +12,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
+docker-hub-secret.yml
 .settings/
 .loadpath
 .recommenders
